@@ -265,7 +265,7 @@ st.markdown(
     <div class="hero">
       <h1>PixelForge AI</h1>
       <p>Turn one line of imagination into bold, high-detail artwork.</p>
-      <span class="pill">Model: Stable Diffusion 3 Medium</span>
+    
     </div>
     """,
     unsafe_allow_html=True,
